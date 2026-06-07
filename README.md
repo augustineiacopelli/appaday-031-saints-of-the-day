@@ -2,7 +2,7 @@
 
 A daily companion to the Roman Martyrology. Browse the principal saint for any day of the year — their biography, a signature quote, and a monthly collect prayer — with full 366-day coverage.
 
-**Live:** <https://augustineiacopelli.github.io/appaday/appaday-031-saints-of-the-day/>  
+**Live:** <https://augustineiacopelli.github.io/appaday-031-saints-of-the-day/>  
 **Portfolio:** <https://augustineiacopelli.github.io/appaday/>
 
 -----
